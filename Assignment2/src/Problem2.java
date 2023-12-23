@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * this program builds on problem1 and the final shot
  * of each player prints a star-like patter of shots
- * @author Nishevitha Venkatesh - B00960525
+ * @author Nishevitha Venkatesh
  */
 public class Problem2 {
     static Scanner in = new Scanner(System.in);
